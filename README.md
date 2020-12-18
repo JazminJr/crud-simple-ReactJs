@@ -10,4 +10,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Description
 Using Routes with React Js from an API
 
-![]("src/images/Captura3.PNG")
+![](src/images/Captura2.PNG)
